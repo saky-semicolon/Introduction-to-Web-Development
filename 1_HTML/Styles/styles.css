@@ -1,0 +1,16 @@
+/* Adding CSS Styles with the file-Favicons */
+body{
+    background-color: bisque;
+    width: 50%;
+    align-items: center;
+}
+h1 {
+    color: aqua;
+    background-color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    margin: 100px 100 px 100px 100px;
+    background-color: blueviolet;
+    padding: 50px 50px 50px 50px;
+}
