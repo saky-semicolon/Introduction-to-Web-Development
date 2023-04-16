@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Input</title>
+    <!-- 
+        ## HTML INPUT ##
+        An <input> element is used to create interactive controls for web-based forms in order to accept data from the user.
+
+        The <input> element is one of the most important elements in HTML forms. It is used to take user input using various types of input controls, such as:
+
+                        *text fields
+                        *checkboxes
+                        *radio buttons
+                        *submit buttons
+        
+        The syntax for an <input> element is:  
+                                                <input type="[type]" name="[name]" value="[value]">
+
+        The type attribute specifies the type of input control. The value attribute specifies the value of the input control.
+        For example, the following code creates a text field:
+                                                              <input type="text" name="username" value="">
+
+       The <input> element can also have other attributes, such as
+                                                                     id, class, placeholder,  required, autofocus, etc.
+
+     -->
+
+     <!-- 
+
+placeholder	text	Specifies a short hint that describes the expected value of an <input> element
+readonly	readonly	Specifies that an input field is read-only
+required	required	Specifies that an input field must be filled out before submitting the form
+size	number	Specifies the width, in characters, of an <input> element
+src	URL	Specifies the URL of the image to use as a submit button (only for type="image")
+step	number
+any	Specifies the interval between legal numbers in an input field
+ -->
+</head>
+<body>
+        <h1>Profile</h1>
+        <input accept="audio/*,video/*,image/*" />.   <!-- Specifies a filter for what file types the user can pick from the file input dialog box (only for type="file")    -->
+        <input type="button"><br>                     
+        <input type="checkbox"><br>
+        <input type="color"><br>
+        <input type="date"><br>
+        <input type="datetime-local"><br>
+        <input type="email"><br>
+        <input type="file"><br>
+        <input type="hidden"><br>
+        <input type="image"><br>
+        <input type="month"><br>
+        <input type="number"><br>
+        <input type="password"><br>
+        <input type="radio"><br>
+        <input type="range"><br>
+        <input type="reset"><br>
+        <input type="search"><br>
+        <input type="submit"><br>
+        <input type="tel"><br>
+        <input type="text"> (default value) <br>
+        <input type="time"> <br>
+        <input type="url"> <br>
+        <input type="week"><br>
+<br>
+<hr>
+<!-- An HTML form with three input fields; two text fields and one submit button: -->
+    <form action="/action_page.php">
+        <label for="fname">First name:</label>
+        <input type="text" id="fname" name="fname"><br><br>
+        <label for="lname">Last name:</label>
+        <input type="text" id="lname" name="lname"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+<hr>
+<!-- alt="text" -->
+    <form action="/action_page.php">
+        <label for="fname">First name:</label>
+        <input type="text" id="fname" name="fname">                                     <!--form="form_id"	    Specifies the form the <input> element belongs to-->
+        <input type="image" src="submit.gif" alt="Submit" width="48" height="48">       <!-- Specifies an alternate text for images (only for type="image")-->
+      </form>
+<hr>
+<!-- autocomplete="on/off" -->
+      <form action="/action_page.php" autocomplete="on">              <!-- Specifies whether an <input> element should have autocomplete enabled-->
+        <label for="fname">First name:</label>
+        <input type="text" id="fname" name="fname"><br><br>
+        <label for="lname">Last name:</label>
+        <input type="text" id="lname" name="lname"><br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" autocomplete="off"><br><br>
+        <input type="submit">
+      </form>
+<hr>
+<!-- autofocus -->
+      <form action="/action_page.php">
+        <label for="fname">First name:</label>
+        <input type="text" id="fname" name="fname" autofocus><br><br>           <!-- Specifies that an <input> element should automatically get focus when the page loads-->
+        <label for="lname">Last name:</label>
+        <input type="text" id="lname" name="lname"><br><br>
+        <input type="submit">
+      </form>
+<hr>
+<!-- checked -->
+    <form action="/action_page.php" method="get">
+        <input type="checkbox" name="vehicle1" value="Bike">
+        <label for="vehicle1"> I have a bike</label><br>
+        <input type="checkbox" name="vehicle2" value="Car">
+        <label for="vehicle2"> I have a car</label><br>
+        <input type="checkbox" name="vehicle3" value="Boat" checked>            <!-- one checkbox item will be checked automatically -->
+        <label for="vehicle3"> I have a boat</label><br><br>
+        <input type="submit" value="Submit">
+    </form>
+<hr>
+<!--     <input formtarget="_blank|_self|_parent|_top|framename">   -->
+    <form action="/action_page.php">
+        <input type="text" id="fname" name="fname"><br><br>
+        <label for="lname">Last name:</label>
+        <input type="text" id="lname" name="lname"><br><br>
+        <input type="submit" value="Submit as normal">
+        <input type="submit" formtarget="_blank" value="Submit to a new window">            <!--     The response is displayed in a new window or tab(_blank), same frame- Default(_self), displayed in the full body of the window(_top).   -->
+    </form>
+<hr>
+<!--    <input max="number|date"> & min = "number/date"  -->
+    <form action="/action_page.php">
+        <label for="datemax">Enter a date before 1980-01-01:</label>
+        <input type="date" id="datemax" name="datemax" max="1979-12-31"><br><br>
+    
+        <label for="datemin">Enter a date after 2000-01-01:</label>
+        <input type="date" id="datemin" name="datemin" min="2000-01-02"><br><br>
+    
+        <label for="quantity">Quantity (between 1 and 5):</label>
+        <input type="number" id="quantity" name="quantity" min="1" max="5"><br><br>          <!-- minimum and maximum possible digits-->
+    
+        <input type="submit">
+    </form>
+<hr>
+<!-- HTML input required attribute -->
+    <form action="/action_page.php">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required>              <!-- it's a required input that means without filling it, it won't be submitted.-->
+        <input type="submit">
+    </form>
+</body>
+</html>

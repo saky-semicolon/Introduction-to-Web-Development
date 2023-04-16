@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Multimedia Files</title>
+    <!--
+        autoplay    	Specifies that the audio will start playing as soon as it is ready
+        controls	    Specifies that audio controls should be displayed (such as a play/pause button etc)
+        loop	    	Specifies that the audio will start over again, every time it is finished
+        muted	    	Specifies that the audio output should be muted
+        preload	        Specifies if and how the author thinks the audio should be loaded when the page loads
+        src	            Specifies the URL of the audio file 
+
+    -->
+</head>
+<body>
+    <h1>HTML Multimedia Files-Audio and Video</h1>
+    <h2>Audio</h2>
+    <audio src="./Media_Files/aj rate.mp3"></audio>  <br>   <!-- without controls it won't show any option to play.-->
+    <audio src="./Media_Files/aj rate.mp3" controls></audio> <br>
+    <audio src="./Media_Files/aj rate.mp3" controls autoplay></audio> <br>
+    <audio src="./Media_Files/aj rate.mp3" controls loop></audio> <br>
+    <audio src="./Media_Files/aj rate.mp3" controls muted></audio>
+    <br>
+    <audio controls>
+        <source src="../1_HTML/Media_Files/lag ja gale.mp3" type="audio/mpeg">
+      </audio>
+
+    <h2>Video</h2>
+    <video src="../1_HTML/Media_Files/arabic song.mp4" controls height="120px" width="300px"></video> <br>
+    <!-- To add any video from any external website -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/CwzCVdqtBJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
+
+    <video width="320" height="240" controls>
+        <source src="../1_HTML/Media_Files/dad and kid.mp4" type="video/mp4"> <br>
+      </video>
+</body>
+</html>

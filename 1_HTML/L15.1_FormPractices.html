@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog BD</title>
+    <style>
+        h1 {
+            text-align : center;
+            color: #4CAF50;
+        }
+        h4 {
+            text-align: center;
+            color: red;
+        }
+        form {
+          width: 320px;
+          margin: auto;
+          padding: 10px;
+          border: 1px solid #ccc;
+          background-color: #fafafa;
+        }
+        
+        input[type="text"], input[type="password"] {
+          width: 100%;
+          padding: 10px;
+          margin-bottom: 10px;
+          border: 1px solid #ccc;
+        }
+        
+        input[type="submit"] {
+          background-color: #4CAF50;
+          color: #fff;
+          padding: 10px;
+          border: 0;
+          width: 100%;
+        }
+        .btn {
+            border-radius: 5px;
+            text-align: center;
+            background-color: aqua;
+            color: red;
+            padding-right: 20px;
+            padding-left: 20px; 
+            padding-top: 5px;
+            padding-bottom: 5px;
+            margin: 20px 20px 20px 20px;
+            align-content: center;
+            align-tracks: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Blog BD</h1>
+    <h4>Share your thoughts with thousands of peoples.</h4>
+    <h1 style="color:blue">Writter Registration Form</h1>
+    <form action="login.php" method="POST">
+      <label for="username">Username</label>
+      <input type="text" name="username" id="username" />
+      <label for="password">Password</label>
+      <input type="password" name="password" id="password" />
+      <input type="submit" value="Login" /> 
+      <button class="btn"><b>Already a user?</b></button>
+    </form>
+</body> 
+</html>
