@@ -5,8 +5,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML Form</title>
+    <link rel="stylesheet" href="../1_HTML/Styles/L15.css">
+    <style>
+        .blog>label{
+            display: block;
+            margin-bottom: 10px;
+        }
+        fieldset>label{
+            display: block;
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 <body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">Form</a></li>
+                <li><a href="">Semantic</a></li>
+                <li><a href="">Media</a></li>
+            </ul>
+        </nav>
+    </header>
     <!-- HTML Form -->
     <h1>Registration</h1>
     <h3>Please fill this form properly:</h3>
@@ -24,5 +45,44 @@
         <input type="radio" name="gender" value="female" required> Female<br>
         <input type="submit" value="Submit">
       </form>
+    
+    <h2>Welcome to Our Blog</h2>
+    <form class="blog" action="">
+        <label for="Name">Name:
+            <input type="text" id="Name" placeholder="Your Name">
+        </label>
+        <label for="email">E-mail:
+            <input type="email" id="Name" placeholder="Your E-mail">
+        </label>
+        <label for="mobile">Mobile-No:
+            <input type="number" id="mobile" placeholder="Your Phone Number">
+        </label>
+        <fieldset>
+            <legend>Your Gender:</legend>
+            <label for="male">
+            <input type="radio" name="gen" id="male">Male</label>               <!--    radio: you are only allowed to choose one   -->
+            <label for="female">
+            <input type="radio" name="gen" id="female" checked>Female</label>
+        </fieldset>
+        <fieldset>
+            <legend>Skills:</legend>
+            <label for="office">
+                <input type="checkbox" name="ms-office" id="office" checked>MS Office           <!-- checked: it will be checked automatically with the loading of the page.    -->
+            </label>
+            <label for="adobe">
+                <input type="checkbox" name="adobe-photoshop" id="adobe">Adobe Photoshop        <!--    checkbox: you are allowed to choose multiple items.   -->
+            </label>
+            <label for="coding">
+                <input type="checkbox" name="Programming" id="coding">Programming
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>Write your plan: </legend>
+            <textarea name="" id="" cols="50" rows="5"></textarea>
+        </fieldset>
+        <input type="reset" value="Reset" name="" id="">
+        <input type="submit" value="Submit">
+
+    </form>
 </body>
 </html>

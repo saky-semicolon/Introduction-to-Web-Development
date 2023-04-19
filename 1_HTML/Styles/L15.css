@@ -1,0 +1,17 @@
+/* Adding Styles to the Navigation Bar */
+
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 10px;
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+nav li:hover{                   /*  when the mouse cursor is over the navigation bar-the following changes will be happened. */
+    background-color: lightgray;
+    padding: 0 5px;
+}

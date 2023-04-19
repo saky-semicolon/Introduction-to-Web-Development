@@ -1,0 +1,48 @@
+/* Common Header Section Styles */
+
+body{
+    align-tracks: center;
+    align-content: center;
+    background-color: lightsalmon;
+    
+}
+header{
+    background-color: aqua;
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 20px;
+    margin-left: 30px;
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+nav li:hover{                   /*  when the mouse cursor is over the navigation bar-the following changes will be happened. */
+    background-color: lightgray;
+    padding: 0 5px;
+}
+.img-li{
+    margin-left: 35px;
+}
+.li-margin{
+    margin-right: 900px;
+}
+.lin {
+    alogn: center;
+    height:10px;
+    width: 100%;
+    background-color: black;
+    border-radius: 2px;
+}
+footer{
+    background-color: green;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}

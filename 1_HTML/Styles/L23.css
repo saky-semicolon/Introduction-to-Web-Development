@@ -1,0 +1,91 @@
+/* Styles added for the Nav Parent-home page */
+
+body{
+    align-tracks: center;
+    align-content: center;
+    background-color: lightsalmon;
+    
+}
+header{
+    background-color: aqua;
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 20px;
+    margin-left: 30px;
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+nav li:hover{                   /*  when the mouse cursor is over the navigation bar-the following changes will be happened. */
+    background-color: lightgray;
+    padding: 0 5px;
+}
+.img-li{
+    margin-left: 35px;
+}
+.li-margin{
+    margin-right: 900px;
+}
+.lin {
+    alogn: center;
+    height:10px;
+    width: 100%;
+    background-color: black;
+    border-radius: 2px;
+}
+main{
+    display: flex;
+}
+#side-bar{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    padding-right: 100px;
+    padding-left: 5px;
+    padding-bottom:5px;
+    background-color: lightblue;
+    border-radius:5px;
+}
+#main-bar{
+    margin left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    padding-right: 100px;
+    padding-left: 20px;
+    padding-bottom:50px;
+    background-color: lightblue;
+    border-radius:5px;
+}
+footer{
+    background-color: green;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.photos{
+    display: flex;
+}
+div{
+    margin left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    padding-right: 13px;
+    padding-left: 13px;
+    padding-bottom:10px;
+    background-color: lightblue;
+    border-radius:5px;
+    justify-content: center;
+}

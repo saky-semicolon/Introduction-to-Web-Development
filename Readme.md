@@ -2,12 +2,39 @@
 
 Congratulations on making a very smart decision to learn web development!
 
-Having this book in your possession, it's clear that you have an enthusiasm for learning web development and a strong commitment to achieving your goals. This book is designed to be a comprehensive guide for beginners, guiding us through the basics of web development. In this chapter, we will try to answer any questions that might come up before we begin our journey.
+Having this book in your possession, it's clear that you have an enthusiasm for learning **web development** and a strong commitment to achieving your goals. This book is designed to be a comprehensive guide for beginners, guiding us through the basics of **web development**. In this chapter, we will try to answer any questions that might come up before we begin our journey.
 
-Web development is the process of creating, maintaining and improving websites and web applications. It includes both the design and coding aspects of web development and can involve a range of skills from HTML and CSS programming to software engineering, database development, server setup, and content management. Web developers use a variety of languages, frameworks, and tools to create a website or application that meets the requirements of the client or organization. Web development is an ever-evolving field with new technologies emerging every day. The web development process is complex and involves many different parts and players. It is important to understand the different roles and responsibilities of those involved in the process in order to create a successful product.
+**Web development** is the process of creating, maintaining and improving websites and web applications. It includes both the design and coding aspects of web development and can involve a range of skills from HTML and CSS programming to software engineering, database development, server setup, and content management. Web developers use a variety of languages, frameworks, and tools to create a website or application that meets the requirements of the client or organization. Web development is an ever-evolving field with new technologies emerging every day. The web development process is complex and involves many different parts and players. It is important to understand the different roles and responsibilities of those involved in the process in order to create a successful product.
 
 Welcome to this book! Whether you are a complete beginner or an experienced developer looking to brush up your skills, this guide will provide you with all the knowledge you need to become a successful web developer. This comprehensive guide covers the essential concepts and tools of web development, including HTML, CSS, JavaScript, web frameworks, databases, web APIs, and more. With this guide, you will learn the fundamentals of web development, as well as the latest technologies and trends, so that you can create modern and powerful web applications. So, let's get started!
+<hr>
 
+## Table of Contents
+* [Preface](#preface)
+* [Chapter-01: Introduction to Web Development			              	12
+    What is Website?
+	Types of Websites
+	Website structure
+    What is Web Development?
+    What do Web Developers do?
+    Types of Web Developers
+    Web Design vs. Web Development
+    UI/UX
+    What is an IP address?
+	Web Application
+	What is cybersecurity? ](#chapter-01---getting-ready-with-python)
+* [Chapter 02 - Introduction To Python Programming](#chapter-02---introduction-to-python-programming)
+* [Chapter 03 - Introducing Methods](#chapter-03---introducing-methods)
+* [Chapter 04 - Introduction To Python Platform](#chapter-04---introduction-to-python-platform)
+* [Chapter 05 - Introduction To PyCharm](#chapter-05---introduction-to-pycharm)
+* [Chapter 06 - Introducing Data Types and Conditionals](#chapter-06---introducing-data-types-and-conditionals)
+* [Chapter 07 - Introducing Loops](#chapter-07---introducing-loops)
+* [Chapter 08 - Python Tips](#chapter-08---python-tips)
+* [Chapter 09 - Introducing Object Oriented Programming](#chapter-09---introducing-object-oriented-programming)
+* [Chapter 10 : Python Data Structures](#chapter-10---python-data-structures)
+* [Chapter 11 - Object Oriented Programming Revisited](#chapter-11---object-oriented-programming-revisited)
+* [Chapter 12 - Error Handling](#chapter-12---error-handling)
+* [Chapter 13 - More Python Tips](#chapter-13---more-python-tips)
 What is website?
 A website is a collection of related web pages, including multimedia content, typically identified with a common domain name, and published on at least one web server. A website may be accessible via a public Internet Protocol (IP) network, such as the Internet, or a private local area network (LAN), by referencing a uniform resource locator (URL) that identifies the site.
 Websites can have many functions and can be used in various fashions; a website can be a personal website, a corporate website for a company, a government website, an organization website, etc. Websites are typically dedicated to a particular topic or purpose, ranging from entertainment and social networking to providing news and education. All publicly accessible websites collectively constitute the World Wide Web.
