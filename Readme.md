@@ -12,10 +12,7 @@ Having this book in your possession, it's clear that you have an enthusiasm for 
 **Web development** is the process of creating, maintaining and improving websites and web applications. It includes both the design and coding aspects of web development and can involve a range of skills from HTML and CSS programming to software engineering, database development, server setup, and content management. Web developers use a variety of languages, frameworks, and tools to create a website or application that meets the requirements of the client or organization. Web development is an ever-evolving field with new technologies emerging every day. The web development process is complex and involves many different parts and players. It is important to understand the different roles and responsibilities of those involved in the process in order to create a successful product.
 
 Welcome to this book! Whether you are a complete beginner or an experienced developer looking to brush up your skills, this guide will provide you with all the knowledge you need to become a successful web developer. This comprehensive guide covers the essential concepts and tools of web development, including HTML, CSS, JavaScript, web frameworks, databases, web APIs, and more. With this guide, you will learn the fundamentals of web development, as well as the latest technologies and trends, so that you can create modern and powerful web applications. So, let's get started!
-<picture>
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="md_medias/intro.png">
-</picture>
+
 <hr>
 
 ## Table of Contents
@@ -50,14 +47,16 @@ Welcome to this book! Whether you are a complete beginner or an experienced deve
 ## Chapter-01
 ## Introduction to Web Development
 
-<hr>
 
 ### What is website?
 
 A website is a collection of related web pages, including multimedia content, typically identified with a common domain name, and published on at least one web server. A website may be accessible via a public Internet Protocol (IP) network, such as the Internet, or a private local area network (LAN), by referencing a uniform resource locator (URL) that identifies the site.
 Websites can have many functions and can be used in various fashions; a website can be a personal website, a corporate website for a company, a government website, an organization website, etc. Websites are typically dedicated to a particular topic or purpose, ranging from entertainment and social networking to providing news and education. All publicly accessible websites collectively constitute the World Wide Web.
 Websites can be created and maintained by an individual, group, business or organization to serve a variety of purposes. A website is hosted on a computer system known as a web server, also called an HTTP (Hyper Text Transfer Protocol) server. These terms can also refer to the software that runs on these systems which retrieves and delivers the web pages in response to requests from the website's users. Apache is the most commonly used web server software.
- 
+ <picture>
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="md_medias/recent.png">
+</picture>
 Static website: A static website is one that has web pages stored on the server in the format that is sent to a client web browser. It is primarily coded in Hypertext Markup Language (HTML); Cascading Style Sheets (CSS) are used to control appearance beyond basic HTML. Images are commonly used to effect the desired appearance and as part of the main content. Audio or video might also be considered "static" content if it plays automatically or is generally non-interactive. This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus.
 Dynamic website: A dynamic website is one that changes or customizes itself frequently and automatically. Server-side dynamic pages are generated "on the fly" by computer code that produces the HTML (CSS are responsible for appearance and thus, are static files). There are a wide range of software systems, such as CGI, Java Servlets and Java Server Pages (JSP), Active Server Pages and ColdFusion (CFML) that are available to generate dynamic web systems and dynamic sites. Various web application frameworks and web template systems are available for general-use programming languages like Perl, PHP, Python and Ruby to make it faster and easier to create complex dynamic websites.
 Types of websites
