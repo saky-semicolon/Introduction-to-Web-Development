@@ -1,4 +1,8 @@
 # Complete Guide to Web Development
+<picture>
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="cover.jpg">
+</picture>
 
 Congratulations on making a very smart decision to learn web development!
 
@@ -11,18 +15,18 @@ Welcome to this book! Whether you are a complete beginner or an experienced deve
 
 ## Table of Contents
 * [Preface](#preface)
-* [Chapter-01: Introduction to Web Development			              	12
-    What is Website?
-	Types of Websites
-	Website structure
-    What is Web Development?
-    What do Web Developers do?
-    Types of Web Developers
-    Web Design vs. Web Development
-    UI/UX
-    What is an IP address?
-	Web Application
-	What is cybersecurity? ](#chapter-01---getting-ready-with-python)
+* [Chapter-01: Introduction to Web Development](#chapter-01---getting-ready-with-python)		              	12
+    *What is Website?
+	*Types of Websites
+	*Website structure
+    *What is Web Development?
+    *What do Web Developers do?
+    *Types of Web Developers
+    *Web Design vs. Web Development
+    *UI/UX
+    *What is an IP address?
+	*Web Application
+	*What is cybersecurity? 
 * [Chapter 02 - Introduction To Python Programming](#chapter-02---introduction-to-python-programming)
 * [Chapter 03 - Introducing Methods](#chapter-03---introducing-methods)
 * [Chapter 04 - Introduction To Python Platform](#chapter-04---introduction-to-python-platform)
