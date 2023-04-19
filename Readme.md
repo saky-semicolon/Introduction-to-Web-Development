@@ -44,6 +44,11 @@ Welcome to this book! Whether you are a complete beginner or an experienced deve
 
 <hr>
 
+## Preface
+
+**Welcome to this github repository!**
+This repository will work as a complete guide book for the people who are highly interested to learn about web development. I will try to explain everything we need to know to start web development and later I will give you a complete guidelines to  be a  web developer.
+
 ## Chapter-01
 ## Introduction to Web Development
 
@@ -53,15 +58,21 @@ Welcome to this book! Whether you are a complete beginner or an experienced deve
 A website is a collection of related web pages, including multimedia content, typically identified with a common domain name, and published on at least one web server. A website may be accessible via a public Internet Protocol (IP) network, such as the Internet, or a private local area network (LAN), by referencing a uniform resource locator (URL) that identifies the site.
 Websites can have many functions and can be used in various fashions; a website can be a personal website, a corporate website for a company, a government website, an organization website, etc. Websites are typically dedicated to a particular topic or purpose, ranging from entertainment and social networking to providing news and education. All publicly accessible websites collectively constitute the World Wide Web.
 Websites can be created and maintained by an individual, group, business or organization to serve a variety of purposes. A website is hosted on a computer system known as a web server, also called an HTTP (Hyper Text Transfer Protocol) server. These terms can also refer to the software that runs on these systems which retrieves and delivers the web pages in response to requests from the website's users. Apache is the most commonly used web server software.
+<br>
  <picture>
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="md_medias/recent.png">
 </picture>
-Static website: A static website is one that has web pages stored on the server in the format that is sent to a client web browser. It is primarily coded in Hypertext Markup Language (HTML); Cascading Style Sheets (CSS) are used to control appearance beyond basic HTML. Images are commonly used to effect the desired appearance and as part of the main content. Audio or video might also be considered "static" content if it plays automatically or is generally non-interactive. This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus.
-Dynamic website: A dynamic website is one that changes or customizes itself frequently and automatically. Server-side dynamic pages are generated "on the fly" by computer code that produces the HTML (CSS are responsible for appearance and thus, are static files). There are a wide range of software systems, such as CGI, Java Servlets and Java Server Pages (JSP), Active Server Pages and ColdFusion (CFML) that are available to generate dynamic web systems and dynamic sites. Various web application frameworks and web template systems are available for general-use programming languages like Perl, PHP, Python and Ruby to make it faster and easier to create complex dynamic websites.
-Types of websites
-There are so many types of websites available in the internet and we cannot go into detail about every type of website, so instead we will focus on some of the more common ones.
 
+Static website: A static website is one that has web pages stored on the server in the format that is sent to a client web browser. It is primarily coded in Hypertext Markup Language (HTML); Cascading Style Sheets (CSS) are used to control appearance beyond basic HTML. Images are commonly used to effect the desired appearance and as part of the main content. Audio or video might also be considered "static" content if it plays automatically or is generally non-interactive. This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus.
+<br>
+Dynamic website: A dynamic website is one that changes or customizes itself frequently and automatically. Server-side dynamic pages are generated "on the fly" by computer code that produces the HTML (CSS are responsible for appearance and thus, are static files). There are a wide range of software systems, such as CGI, Java Servlets and Java Server Pages (JSP), Active Server Pages and ColdFusion (CFML) that are available to generate dynamic web systems and dynamic sites. Various web application frameworks and web template systems are available for general-use programming languages like Perl, PHP, Python and Ruby to make it faster and easier to create complex dynamic websites.
+<hr>
+
+### Types of websites
+
+There are so many types of websites available in the internet and we cannot go into detail about every type of website, so instead we will focus on some of the more common ones.
+<br>
 1.	Informational Websites – These websites provide information to the user in a variety of formats such as text, images, videos, audio and animations. They can be used for educational purposes, to provide news and updates, to advertise products or services, or to provide entertainment.
 2.	E-commerce Websites – These websites are used for conducting online transactions. They allow users to purchase products or services through a secure payment gateway. The payment gateway is integrated into the website and customers can pay with a credit card or other payment methods.
 3.	Social Networking Websites – These websites allow users to build profiles, share photos and videos, interact with friends and family, join groups, and more. They are used for connecting people all over the world and can be used to promote businesses or products.
