@@ -4,7 +4,8 @@
  <img alt="YOUR-ALT-TEXT" src="cover.jpg">
 </picture>
 
-Congratulations on making a very smart decision to learn web development!
+
+**Congratulations on making a very smart decision to learn web development!**
 
 Having this book in your possession, it's clear that you have an enthusiasm for learning **web development** and a strong commitment to achieving your goals. This book is designed to be a comprehensive guide for beginners, guiding us through the basics of **web development**. In this chapter, we will try to answer any questions that might come up before we begin our journey.
 
@@ -16,9 +17,9 @@ Welcome to this book! Whether you are a complete beginner or an experienced deve
 ## Table of Contents
 * [Preface](#preface)
 * [Chapter-01: Introduction to Web Development](#chapter-01---getting-ready-with-python)		              	12
-    *What is Website?
-	*Types of Websites
-	*Website structure
+    * [What is Website?]()
+	* [Types of Websites]()
+	* [Website structure]
     *What is Web Development?
     *What do Web Developers do?
     *Types of Web Developers
