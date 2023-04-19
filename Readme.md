@@ -18,8 +18,8 @@ Welcome to this book! Whether you are a complete beginner or an experienced deve
 ## Table of Contents
 * [<i>Preface</i>](#preface)
 * [<b>Chapter 01 - Introduction to Web Development</b>](#chapter-01)		              	
-    ** [What is Website?](what-is-website?)
-	** [Types of Websites](types-of-websites)
+    * [What is Website?](what-is-website?)
+	* [Types of Websites](types-of-websites)
 	* [Website structure](website-structures)
     * [What is Web Development?](what-is-web-development?)
     * [What do Web Developers do?](what-do-we-evelopers-do?)
@@ -52,7 +52,7 @@ This repository will work as a complete guide book for the people who are highly
 ## Introduction to Web Development
 
 
-### What is website?
+## What is website?
 
 A website is a collection of related web pages, including multimedia content, typically identified with a common domain name, and published on at least one web server. A website may be accessible via a public Internet Protocol (IP) network, such as the Internet, or a private local area network (LAN), by referencing a uniform resource locator (URL) that identifies the site.
 Websites can have many functions and can be used in various fashions; a website can be a personal website, a corporate website for a company, a government website, an organization website, etc. Websites are typically dedicated to a particular topic or purpose, ranging from entertainment and social networking to providing news and education. All publicly accessible websites collectively constitute the World Wide Web.
@@ -68,7 +68,7 @@ Static website: A static website is one that has web pages stored on the server 
 Dynamic website: A dynamic website is one that changes or customizes itself frequently and automatically. Server-side dynamic pages are generated "on the fly" by computer code that produces the HTML (CSS are responsible for appearance and thus, are static files). There are a wide range of software systems, such as CGI, Java Servlets and Java Server Pages (JSP), Active Server Pages and ColdFusion (CFML) that are available to generate dynamic web systems and dynamic sites. Various web application frameworks and web template systems are available for general-use programming languages like Perl, PHP, Python and Ruby to make it faster and easier to create complex dynamic websites.
 <hr>
 
-### Types of websites
+## Types of websites
 
 There are so many types of websites available in the internet and we cannot go into detail about every type of website, so instead we will focus on some of the more common ones.
 <br>
@@ -85,7 +85,7 @@ There are so many types of websites available in the internet and we cannot go i
 
 <hr>
 
-### Website structure
+## Website structure
 Designers strive to create products and experiences that will bring joy to users. However, when designing a website or landing page, there are other factors to consider, such as the structure of the site. This structure involves the information architecture and design layout, which is the structural projection of an informational space that facilitates easy access to content. Having an organized structure is important for user experience, as it allows customers to quickly find what they need. If the site is not organized, customers may leave and never come back. To ensure that your website is properly organized, you can utilize the tool of structure.
  
 The four types of web structure that are common in UX design are:
@@ -103,13 +103,13 @@ other sequence.
 The home page of a website serves as the hub, linking to critical or popular pages. Categorization is important to help users make decisions faster, while subcategories provide a structured approach to browsing complex data. Individual posts and pages should have a meaningful information hierarchy to make it easier for users to find the content they need.
 <hr>
 
-### What is Web Development?
+## What is Web Development?
 Web development is the process of creating and maintaining websites. It includes many aspects such as web design, web content development, server-side scripting, client-side scripting, network security configuration, and e-commerce development.
 Web design involves the creation of webpages, graphics, and other visuals. Web content development refers to the process of writing and updating webpages. Server-side scripting is the programming of web applications, such as server-side databases and dynamic content. Client-side scripting is the programming of client-side web applications, such as Javascript. Network security configuration is the process of setting up and maintaining firewalls, encryption protocols, and other security measures. E-commerce development is the process of creating and managing online stores.
 Web development is an ever-evolving field, and new technologies are constantly being developed and implemented. It is important for web developers to stay up to date on the latest trends and technologies in order to stay competitive in the industry. Additionally, web developers must be knowledgeable in coding languages such as HTML, CSS, JavaScript, Ruby, and PHP. Knowledge of software such as Adobe Creative Suite and Microsoft Office is also useful for web developers.
 <hr>
 
-### What do Web Developers do?
+## What do Web Developers do?
 Web developers design, create, and maintain websites and web applications. They are responsible for coding, designing, testing, and debugging websites, web applications, and web-related software. They work with HTML, CSS, JavaScript, and other web programming languages to create websites and web apps that are attractive, functional, and user-friendly. They also ensure that websites are optimized for search engine results and are compatible with multiple browsers and platforms. Web developers may also be responsible for managing databases, creating content, and ensuring the security of websites.
 Types of Web Developers
 There are three types of web developer roles: front-end, back-end, and full-stack.
@@ -121,14 +121,17 @@ There are three types of web developer roles: front-end, back-end, and full-stac
 3.	Full-Stack Developer: A full-stack developer is a combination of both a front-end and back-end developer. They are responsible for the entire development process, from design to coding to testing and deployment. They are proficient in multiple programming languages and understand how the various components of the website interact with each other.
 <hr>
 
-Web Design vs. Web Development
-A web designer is a creative individual who is responsible for developing the overall look, usability, and aesthetic of a website. On the other hand, a web developer is responsible for constructing, maintaining the framework and coding of a website using programming languages such as HTML, JavaScript, PHP, and Python. For both positions, technical, graphic and creative skills are essential. Here are some comparisons between web design and 
+## Web Design vs. Web Development
+A web designer is a creative individual who is responsible for developing the overall look, usability, and aesthetic of a website. On the other hand, a web developer is responsible for constructing, maintaining the framework and coding of a website using programming languages such as HTML, JavaScript, PHP, and Python. For both positions, technical, graphic and creative skills are essential. Here are some comparisons between web design and web development-
+<br>
 1.	Web Design focuses on the look and feel of a website, while Web Development focuses on the functionality of a website.
 2.	Web Design involves creating the visual layout of a website, while Web Development involves writing code to make a website functional. 
 3.	Web Designers use HTML, CSS, and JavaScript to create the visual elements of a website, while Web Developers use server-side coding languages such as PHP and ASP.NET to create a website’s functionality. 
 4.	Web Designers can create images, layouts, and other visual elements for a website, while Web Developers write code to control the functionality of a website. 
 5.	Web Designers focus on the user experience of a website, while Web Developers focus on the technical aspects of a website. 
 6.	Web Designers are responsible for the overall look and feel of a website, while Web Developers are responsible for the underlying code and functionality.
+<hr>
+
 UI/UX
 Creating a product that individuals enjoy frequently necessitates both a nice UI and UX. As an example, you could have a banking app with an attractive interface and user-friendly navigation (UI). But if the app has slow loading times or requires you to go through multiple screens to transfer money (UX), the look of the app does not matter. You would not be likely to want to use it. On the other hand, a website could be full of interesting, beneficial content that is organized in a sensible and easy to understand manner. However, if the website appears outdated or if you can't easily figure out how to navigate between screens or scroll through options, you are likely to move away from the website.
 User Interface (UI):
