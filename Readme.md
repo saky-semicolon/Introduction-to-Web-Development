@@ -172,37 +172,48 @@ Cybersecurity, also known as information technology security, is the practice of
 ## Getting started with Web Development
 
 In order to begin web development, some preliminary tasks need to be performed on your laptop or computer. This is about properly configuring your system for development purposes. If you are new to this, then you don't need anything extra to start working with HTML as most computers come with a text editor that is suitable for running HTML codes. However, for more advanced web development, you will need to install some software and do some further configuration. In this chapter, we will endeavor to gain a vast amount of knowledge that will prove useful to us as web developers.
+<br>
 The good news is that there's a plethora of web development tools out there, making the task of finding the best ones a bit tricky. But, what are web development tools and why are they so useful? Web development tools are software and apps that give developers the ability to debug and test the code and interface of a website or application. In other words, they are the products used to create functional sites and apps. 
+<br>
 These tools help developers create attractive, functional, and user-friendly websites and apps in a shorter amount of time. Plus, there are some characteristics that you should look for when choosing the best web development tools. They should be easy to use, integrate smoothly, keep your data secure, be scalable, and fit into your budget.
 Web Development has become more complicated recently, making it an intimidating task for those who are new to it and want to go further. However, with the right direction, taking the first steps in web development can be straightforward! A clear guide is all that is needed to get started.
-<br>
+<hr>
 
 ## Installing the Utilities
-At the very first of the journey you don’t actually need to be so worried about this matter. You will be able to learn everything you need with the progress of your practices. As you have just started to write your code you can run HTML in your notepad that you already have with your operating system of the computer. Write your HTML code there and save with the extension “.html” that will actually convert it to the web page. Later 
+At the very first of the journey you don’t actually need to be so worried about this matter. You will be able to learn everything you need with the progress of your practices. As you have just started to write your code you can run HTML in your notepad that you already have with your operating system of the computer. Write your HTML code there and save with the extension “.html” that will actually convert it to the web page. But for your later works you need to perform some works on your computer to make it suitable for all the works you will do with Web Development. We will see those gradually-
 
 
-IDE
+## IDE
 An integrated development environment (IDE) is a software application that provides developers with a range of tools to help create programs. It typically includes a source code editor, local build automation tools, and a debugger to help identify and fix bugs in the code. The source code editor provides features such as syntax highlighting and visual cues, language-specific auto-completion, and bug checking as code is written. The local build automation tools assist with tasks such as compiling source code into binary code, packaging binary code, and running automated tests. The debugger helps locate and fix bugs in the original code.
 Developers use integrated development environments (IDEs) to quickly create new applications. An IDE combines common developer tools such as a source code editor, local build automation, and a debugger into a single graphical user interface (GUI). This eliminates the need to manually configure and integrate multiple utilities, and it can help new developers quickly get up to speed with a team's standard tools and workflows. IDEs can also save time by providing features such as intelligent code completion and automated code generation. Additionally, they can help developers organize their workflow and debug their code with features such as syntax highlighting, class and object browsers, and class hierarchy diagrams. Although building your own IDE with a lightweight text editor is an option, the time saved, environment standardization, and automation features of modern IDEs often make them the best choice for enterprise development teams.
 Example: Microsoft Visual Studio
-Setting Up VS Code
+<hr>
+
+## Setting Up VS Code
 Visual Studio Code, also known as VS Code, is a source-code editor created by Microsoft utilizing the Electron Framework, compatible with Windows, Linux, and macOS. It features debugging support, syntax highlighting, intelligent code completion, code snippets, code refactoring, and built-in Git. This product is a popular choice for developers due to its ability to be upgraded to meet specific needs through its extension library. It can be used for a variety of web development tasks and supports TypeScript, JavaScript, and Node.js. Moreover, it can be integrated with other products for additional features.
+
 Download VS Code from https://code.visualstudio.com/download and install on your device. Create a new file and get an idea of the user interface. Then, add language support for your preferred programming language. You can also modify your keyboard shortcuts and move from other editors by using keymap extensions. Finally, personalize your editor with themes and discover the different features of VS Code in the Interactive Editor Playground.
  
 To save an HTML file you have to add an extension “.html” at the end of the file name. 
-Some Keyboard Hacks:
-•	Shift + Alt + Down arrow key  To duplicate the line(s).
-•	Tab key  To change the option or select the attributes.
-•	Type '!' and press Tab or enter key to open the syntax.
-•	Ctrl + /  To comment it out.
-•	Ctrl + Alt + down arrow key  To write the same thing in multiple fields.
-•	Ctrl + f  To replace.
-•	Ctrl + z  To word wrap.
+<hr>
 
-GitHub
+## Some Keyboard Hacks:
+
+    * Shift + Alt + Down arrow key  To duplicate the line(s).
+    * Tab key  To change the option or select the attributes.
+    * Type '!' and press Tab or enter key to open the syntax.
+    * Ctrl + /  To comment it out.
+    * Ctrl + Alt + down arrow key  To write the same thing in multiple fields.
+    * Ctrl + f  To replace.
+    * Ctrl + z  To word wrap.
+
+<hr>
+
+## GitHub
 GitHub is a web-based hosting service for version control using Git. It is a platform that allows developers to store their projects and track the changes they make to them. It also allows users to collaborate on projects, review code, manage projects, and deploy applications. GitHub provides access control and collaboration features such as wikis, task management, and bug tracking.
 Figma
 Figma is a cloud-based design and prototyping platform that helps teams create, test, and ship better designs faster. It is used by UX/UI designers, product managers, developers, and marketers to streamline their design process, collaborate more effectively, and quickly iterate on designs. It provides features such as real-time collaboration, version control, integrated prototyping, auto-layout, and more. Figma is available on the web, Mac, Windows, and Linux.
+<hr>
 
-Netlify
+## Netlify
 
