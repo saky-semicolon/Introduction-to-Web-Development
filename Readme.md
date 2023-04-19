@@ -29,17 +29,18 @@ Welcome to this book! Whether you are a complete beginner or an experienced deve
     * [What is an IP address?](what-is-an-IP-address?)
 	* [Web Application](web-application)
 	* [What is cybersecurity?](what-is-cybersecurity)
-* [<b>Chapter 02 - CSS</b>](#chapter-02)
-* [<b>Chapter 03 - Responsive Web Layout</b>](#chapter-03)
-* [<b>Chapter 04 - CSS Framework</b>](#chapter-04)
-* [<b>Chapter 05 - Bug & Debug</b>](#chapter-05)
-* [<b>Chapter 06 - Basic Javascript</b>](#chapter-06)
-* [<b>Chapter 07 - Integrate Javascript</b>](#chapter-07)
-* [<b>Chapter 08 - Intermediate Javascript</b>](#chapter-08)
-* [<b>Chapter 09 - Advance Javascript</b>](#chapter-09)
-* [<b>Chapter 10 : API</b>](#chapter-10)
-* [<b>Chapter 11 - Simple React</b>](#chapter-11)
-* [<b>Chapter 12 - Acknowledgements</b>](#chapter-12)
+* [<b>Chapter 02 - Getting started with Web Development</b>](#chapter-02)
+* [<b>Chapter 03 - CSS</b>](#chapter-03)
+* [<b>Chapter 04 - Responsive Web Layout</b>](#chapter-03)
+* [<b>Chapter 05 - CSS Framework</b>](#chapter-04)
+* [<b>Chapter 06 - Bug & Debug</b>](#chapter-05)
+* [<b>Chapter 07 - Basic Javascript</b>](#chapter-06)
+* [<b>Chapter 08 - Integrate Javascript</b>](#chapter-07)
+* [<b>Chapter 09 - Intermediate Javascript</b>](#chapter-08)
+* [<b>Chapter 10 - Advance Javascript</b>](#chapter-09)
+* [<b>Chapter 11 : API</b>](#chapter-10)
+* [<b>Chapter 12 - Simple React</b>](#chapter-11)
+* [<b>Chapter 13 - Acknowledgements</b>](#chapter-12)
 
 <hr>
 
@@ -145,31 +146,38 @@ Creating a product that individuals enjoy frequently necessitates both a nice UI
 2.	Accessibility: The interface should be accessible to all users, regardless of ability or disability.
 3.	Context: The interface should take into account the user’s context and adapt accordingly.
 4.	Engagement: The interface should be engaging and encourage users to come back and use it.
+<hr>
 
-What is an IP address?
+## What is an IP address?
 An IP address is a unique numerical identifier given to any device connected to a network that uses Internet Protocol for communication, similar to a mailing address associated with a home or workplace. To send data over this network, it is broken down into pieces called packets, which contain the data itself as well as metadata in the form of a header. Included in this header are the IP addresses of the sending and receiving devices. Routers and other network infrastructure use this information to direct the packets to their intended destination.
-   
+   <br>
 IP addresses are usually written and displayed in human-readable notations, such as 208.67.222.222 in IPv4, and 2001:db8:0:1234:0:567:8:1 in IPv6. The Internet Protocol, version 4 (IPv4) defines an IP address as a 32-bit number. However, because of the growth of the Internet and the depletion of available IPv4 addresses, a new version of IP (IPv6), using 128 bits for the IP address, was developed in 1995, and standardized in 1998. IPv6 deployment has been ongoing since the mid-2000s.
 IP addresses are classified into two categories: public and private. Public IP addresses are globally routable on the Internet, while private IP addresses are not. Private IP addresses are commonly used in home and business networks.
 IP addresses can also be used to track the geographical location of a device. This is done by comparing the IP address of the device to a database of known locations. This is how services such as geolocation are able to determine a user's location.
+<br>
 Find IP Address of a Domain, Server or Website: https://www.site24x7.com/find-ip-address-of-web-site.html
-Web application
+<hr>
+
+## Web application
 Web applications are applications that are accessed over a network such as the Internet or an intranet. They are also known as web-based applications or hosted applications. A web application typically requires a web server and a database to store its information and is written using a combination of web technologies such as HTML, CSS, JavaScript, and AJAX.
 The primary benefit of using a web application is that it can be accessed from any device with an Internet connection. This means that users can access the application from anywhere in the world, making it easier to collaborate and share information. Additionally, web applications can be more secure than traditional desktop applications since the information is stored on the server instead of the individual devices.
 Web applications are becoming increasingly popular for both businesses and consumers as they can provide a more seamless experience across multiple devices. For businesses, web applications can help to reduce costs and increase efficiency. For consumers, web applications can provide an easy way to access information and services from any device.
-What is cybersecurity?
-Cybersecurity, also known as information technology security, is the practice of protecting networks, systems, and programs from digital attacks. These attacks are usually aimed at accessing, changing, or destroying sensitive information, extorting money from users, or interrupting normal business processes. Cybersecurity is a combination of technologies, processes, and practices designed to protect networks, devices, programs, and data from attack, damage, or unauthorized access. It includes protecting against risks posed by individuals or groups, either inside or outside of an organization. Cybersecurity measures can include firewalls, encryption, identity management, and other tools that help protect the confidentiality, integrity, and availability of data. Additionally, organizations must implement policies and procedures to make sure that their cybersecurity measures are effective and up to date.
+<hr>
 
+## What is cybersecurity?
+Cybersecurity, also known as information technology security, is the practice of protecting networks, systems, and programs from digital attacks. These attacks are usually aimed at accessing, changing, or destroying sensitive information, extorting money from users, or interrupting normal business processes. Cybersecurity is a combination of technologies, processes, and practices designed to protect networks, devices, programs, and data from attack, damage, or unauthorized access. It includes protecting against risks posed by individuals or groups, either inside or outside of an organization. Cybersecurity measures can include firewalls, encryption, identity management, and other tools that help protect the confidentiality, integrity, and availability of data. Additionally, organizations must implement policies and procedures to make sure that their cybersecurity measures are effective and up to date.
+<hr>
+
+## Chapter-02
+## Getting started with Web Development
 
 In order to begin web development, some preliminary tasks need to be performed on your laptop or computer. This is about properly configuring your system for development purposes. If you are new to this, then you don't need anything extra to start working with HTML as most computers come with a text editor that is suitable for running HTML codes. However, for more advanced web development, you will need to install some software and do some further configuration. In this chapter, we will endeavor to gain a vast amount of knowledge that will prove useful to us as web developers.
 The good news is that there's a plethora of web development tools out there, making the task of finding the best ones a bit tricky. But, what are web development tools and why are they so useful? Web development tools are software and apps that give developers the ability to debug and test the code and interface of a website or application. In other words, they are the products used to create functional sites and apps. 
 These tools help developers create attractive, functional, and user-friendly websites and apps in a shorter amount of time. Plus, there are some characteristics that you should look for when choosing the best web development tools. They should be easy to use, integrate smoothly, keep your data secure, be scalable, and fit into your budget.
 Web Development has become more complicated recently, making it an intimidating task for those who are new to it and want to go further. However, with the right direction, taking the first steps in web development can be straightforward! A clear guide is all that is needed to get started.
+<br>
 
- 
-
-
-Installing the Utilities
+## Installing the Utilities
 At the very first of the journey you don’t actually need to be so worried about this matter. You will be able to learn everything you need with the progress of your practices. As you have just started to write your code you can run HTML in your notepad that you already have with your operating system of the computer. Write your HTML code there and save with the extension “.html” that will actually convert it to the web page. Later 
 
 
