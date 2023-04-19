@@ -15,7 +15,7 @@ Welcome to this book! Whether you are a complete beginner or an experienced deve
 <hr>
 
 ## Table of Contents
-* [* *Preface* * ](#preface)
+* [* Preface * ](#preface)
 * [<b>Chapter-01: Introduction to Web Development</b>](#chapter-01---getting-ready-with-python)		              	12
     * [What is Website?]()
 	* [Types of Websites]()
