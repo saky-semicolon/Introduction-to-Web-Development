@@ -17,30 +17,29 @@ Welcome to this book! Whether you are a complete beginner or an experienced deve
 
 ## Table of Contents
 * [<i>Preface</i>](#preface)
-* [<b>Chapter-01: Introduction to Web Development</b>](#chapter-01)		              	
-    * [What is Website?](what-is-website?)
-	* [Types of Websites]()
-	* [Website structure]()
-    * [What is Web Development?]()
-    * [What do Web Developers do?]()
-    * [Types of Web Developers]()
-    * [Web Design vs. Web Development]()
+* [<b>Chapter 01 - Introduction to Web Development</b>](#chapter-01)		              	
+    ** [What is Website?](what-is-website?)
+	** [Types of Websites](types-of-websites)
+	* [Website structure](website-structures)
+    * [What is Web Development?](what-is-web-development?)
+    * [What do Web Developers do?](what-do-we-evelopers-do?)
+    * [Types of Web Developers](types-of-web-developers)
+    * [Web Design vs. Web Development](web-design-vs.-development)
     * [UI/UX]()
     * [What is an IP address?]()
 	* [Web Application]()
 	* [What is cybersecurity?]()
-* [Chapter 02 - Introduction To Python Programming](#chapter-02---introduction-to-python-programming)
-* [Chapter 03 - Introducing Methods](#chapter-03---introducing-methods)
-* [Chapter 04 - Introduction To Python Platform](#chapter-04---introduction-to-python-platform)
-* [Chapter 05 - Introduction To PyCharm](#chapter-05---introduction-to-pycharm)
-* [Chapter 06 - Introducing Data Types and Conditionals](#chapter-06---introducing-data-types-and-conditionals)
-* [Chapter 07 - Introducing Loops](#chapter-07---introducing-loops)
-* [Chapter 08 - Python Tips](#chapter-08---python-tips)
-* [Chapter 09 - Introducing Object Oriented Programming](#chapter-09---introducing-object-oriented-programming)
-* [Chapter 10 : Python Data Structures](#chapter-10---python-data-structures)
-* [Chapter 11 - Object Oriented Programming Revisited](#chapter-11---object-oriented-programming-revisited)
-* [Chapter 12 - Error Handling](#chapter-12---error-handling)
-* [Chapter 13 - More Python Tips](#chapter-13---more-python-tips)
+* [<b>Chapter 02 - CSS</b>](#chapter-02)
+* [<b>Chapter 03 - Responsive Web Layout</b>](#chapter-03)
+* [<b>Chapter 04 - CSS Framework</b>](#chapter-04)
+* [<b>Chapter 05 - Bug & Debug</b>](#chapter-05)
+* [<b>Chapter 06 - Basic Javascript</b>](#chapter-06)
+* [<b>Chapter 07 - Integrate Javascript</b>](#chapter-07)
+* [<b>Chapter 08 - Intermediate Javascript</b>](#chapter-08)
+* [<b>Chapter 09 - Advance Javascript</b>](#chapter-09)
+* [<b>Chapter 10 : API</b>](#chapter-10)
+* [<b>Chapter 11 - Simple React</b>](#chapter-11)
+* [<b>Chapter 12 - Acknowledgements</b>](#chapter-12)
 
 <hr>
 
@@ -84,8 +83,9 @@ There are so many types of websites available in the internet and we cannot go i
 9.	Music Streaming Websites – These websites allow users to stream and listen to music from a variety of sources. They can be used to discover new music and explore different genres.
 10.	File Sharing Websites – These websites allow users to upload and share files with other users. They can be used to share documents, images, videos, and other types of files.
 
+<hr>
 
-Website structure
+### Website structure
 Designers strive to create products and experiences that will bring joy to users. However, when designing a website or landing page, there are other factors to consider, such as the structure of the site. This structure involves the information architecture and design layout, which is the structural projection of an informational space that facilitates easy access to content. Having an organized structure is important for user experience, as it allows customers to quickly find what they need. If the site is not organized, customers may leave and never come back. To ensure that your website is properly organized, you can utilize the tool of structure.
  
 The four types of web structure that are common in UX design are:
@@ -101,19 +101,26 @@ other sequence.
  
 4.	Database model: Database models are used for sites that have a lot of user-generated content.
 The home page of a website serves as the hub, linking to critical or popular pages. Categorization is important to help users make decisions faster, while subcategories provide a structured approach to browsing complex data. Individual posts and pages should have a meaningful information hierarchy to make it easier for users to find the content they need.
-What is Web Development?
+<hr>
+
+### What is Web Development?
 Web development is the process of creating and maintaining websites. It includes many aspects such as web design, web content development, server-side scripting, client-side scripting, network security configuration, and e-commerce development.
 Web design involves the creation of webpages, graphics, and other visuals. Web content development refers to the process of writing and updating webpages. Server-side scripting is the programming of web applications, such as server-side databases and dynamic content. Client-side scripting is the programming of client-side web applications, such as Javascript. Network security configuration is the process of setting up and maintaining firewalls, encryption protocols, and other security measures. E-commerce development is the process of creating and managing online stores.
 Web development is an ever-evolving field, and new technologies are constantly being developed and implemented. It is important for web developers to stay up to date on the latest trends and technologies in order to stay competitive in the industry. Additionally, web developers must be knowledgeable in coding languages such as HTML, CSS, JavaScript, Ruby, and PHP. Knowledge of software such as Adobe Creative Suite and Microsoft Office is also useful for web developers.
-What do Web Developers do?
+<hr>
+
+### What do Web Developers do?
 Web developers design, create, and maintain websites and web applications. They are responsible for coding, designing, testing, and debugging websites, web applications, and web-related software. They work with HTML, CSS, JavaScript, and other web programming languages to create websites and web apps that are attractive, functional, and user-friendly. They also ensure that websites are optimized for search engine results and are compatible with multiple browsers and platforms. Web developers may also be responsible for managing databases, creating content, and ensuring the security of websites.
 Types of Web Developers
 There are three types of web developer roles: front-end, back-end, and full-stack.
 
 1.	Front-End Developer: A front-end developer is responsible for building the user interface of a website. They code the design elements of the site, making sure that it looks and functions as intended. They use a combination of HTML, CSS, and JavaScript to create the visuals and functionality of the website.
+
 2.	Back-End Developer: A back-end developer builds the foundation of a website. They use programming languages such as PHP, Ruby on Rails, and Python to create the server-side components of the website. This includes data storage and retrieval, database management, and application logic.
  
 3.	Full-Stack Developer: A full-stack developer is a combination of both a front-end and back-end developer. They are responsible for the entire development process, from design to coding to testing and deployment. They are proficient in multiple programming languages and understand how the various components of the website interact with each other.
+<hr>
+
 Web Design vs. Web Development
 A web designer is a creative individual who is responsible for developing the overall look, usability, and aesthetic of a website. On the other hand, a web developer is responsible for constructing, maintaining the framework and coding of a website using programming languages such as HTML, JavaScript, PHP, and Python. For both positions, technical, graphic and creative skills are essential. Here are some comparisons between web design and 
 1.	Web Design focuses on the look and feel of a website, while Web Development focuses on the functionality of a website.
