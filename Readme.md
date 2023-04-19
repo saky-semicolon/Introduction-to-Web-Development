@@ -25,10 +25,10 @@ Welcome to this book! Whether you are a complete beginner or an experienced deve
     * [What do Web Developers do?](what-do-we-evelopers-do?)
     * [Types of Web Developers](types-of-web-developers)
     * [Web Design vs. Web Development](web-design-vs.-development)
-    * [UI/UX]()
-    * [What is an IP address?]()
-	* [Web Application]()
-	* [What is cybersecurity?]()
+    * [UI/UX](ui/ux)
+    * [What is an IP address?](what-is-an-IP-address?)
+	* [Web Application](web-application)
+	* [What is cybersecurity?](what-is-cybersecurity)
 * [<b>Chapter 02 - CSS</b>](#chapter-02)
 * [<b>Chapter 03 - Responsive Web Layout</b>](#chapter-03)
 * [<b>Chapter 04 - CSS Framework</b>](#chapter-04)
@@ -132,14 +132,15 @@ A web designer is a creative individual who is responsible for developing the ov
 6.	Web Designers are responsible for the overall look and feel of a website, while Web Developers are responsible for the underlying code and functionality.
 <hr>
 
-UI/UX
+## UI/UX
 Creating a product that individuals enjoy frequently necessitates both a nice UI and UX. As an example, you could have a banking app with an attractive interface and user-friendly navigation (UI). But if the app has slow loading times or requires you to go through multiple screens to transfer money (UX), the look of the app does not matter. You would not be likely to want to use it. On the other hand, a website could be full of interesting, beneficial content that is organized in a sensible and easy to understand manner. However, if the website appears outdated or if you can't easily figure out how to navigate between screens or scroll through options, you are likely to move away from the website.
-User Interface (UI):
+
+* User Interface (UI):
 1.	Design: UI should be designed in a way that is user-friendly and intuitive. The design should be responsive, modern, and aesthetically pleasing.
 2.	Navigation: Menus should be easy to navigate and organized in a logical way.
 3.	Interaction: The user should be able to interact with the interface easily and efficiently.
 4.	Feedback: The interface should provide clear feedback to the user when they take an action.
-User Experience (UX):
+* User Experience (UX):
 1.	Usability: The interface should be easy to use and understand.
 2.	Accessibility: The interface should be accessible to all users, regardless of ability or disability.
 3.	Context: The interface should take into account the user’s context and adapt accordingly.
