@@ -1,8 +1,7 @@
-# Complete Guide to Web Development
-<picture>
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="md_medias/Cover-Pic.jpg">
-</picture>
+# Introduction to Web Development
+
+ <img alt="web development" src="https://www.creativeitinstitute.com/images/course/course_1663052056.jpg">
+
 
 
 **Congratulations on making a very smart decision to learn web development!**
@@ -31,16 +30,10 @@ Welcome to this book! Whether you are a complete beginner or an experienced deve
 	* [What is cybersecurity?](what-is-cybersecurity)
 * [<b>Chapter 02 - Getting started with Web Development</b>](#chapter-02)
 * [<b>Chapter 03 - CSS</b>](#chapter-03)
-* [<b>Chapter 04 - Responsive Web Layout</b>](#chapter-03)
-* [<b>Chapter 05 - CSS Framework</b>](#chapter-04)
-* [<b>Chapter 06 - Bug & Debug</b>](#chapter-05)
-* [<b>Chapter 07 - Basic Javascript</b>](#chapter-06)
-* [<b>Chapter 08 - Integrate Javascript</b>](#chapter-07)
-* [<b>Chapter 09 - Intermediate Javascript</b>](#chapter-08)
-* [<b>Chapter 10 - Advance Javascript</b>](#chapter-09)
-* [<b>Chapter 11 : API</b>](#chapter-10)
-* [<b>Chapter 12 - Simple React</b>](#chapter-11)
-* [<b>Chapter 13 - Acknowledgements</b>](#chapter-12)
+* [<b>Chapter 04 - Personal Portfolio</b>](#chapter-04)
+* [<b>Chapter 05 - Advanced CSS</b>](#chapter-05)
+* [<b>Chapter 06 - Building a Brand New Website</b>](#chapter-06)
+* [<b>Chapter 07 - Practice Projects</b>](#chapter-07)
 
 <hr>
 
